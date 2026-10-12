@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI App Security"
+  short_description: "Review six key app security checks before launch"
+  default_prompt: "Use $ai-app-security to review this app before launch and explain any security issues."
