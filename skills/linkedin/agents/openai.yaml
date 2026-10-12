@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn"
+  short_description: "Write LinkedIn content and improve your profile"
+  default_prompt: "Use $linkedin to help me draft a LinkedIn post in my own voice."
